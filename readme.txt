@@ -37,5 +37,13 @@
   453
   Beef Sizzling 1:3
   970
+
+# demo order item
+10
+2
+260
+3
+450
+3
 #
 # ----> Mostafizur Rahman Shiad
